@@ -1,0 +1,17 @@
+{
+  "invoice": {
+    "Name": "Name",
+    "Contact": "Contact",
+    "City": "City",
+    "State": "State",
+    "AddFile": "Add File",
+    "EditBusinessInformation": "Edit Business Information",
+    "BillTo": "Bill To",
+    "DateOfIssue": "Date Of Issue",
+    "InvoiceNumber": "Invoice No.",
+    "AmountDue": "Amount Due",
+    "DueDate": "Due Date",
+    "ReferenceNumber": "Reference No.",
+    "CityStateZip": "City, State Zip"
+  }
+}
